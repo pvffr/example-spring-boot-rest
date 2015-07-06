@@ -1,4 +1,4 @@
-package com.pcomp.example.spring.boot.rest.repositpry;
+package com.pcomp.example.spring.boot.rest.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

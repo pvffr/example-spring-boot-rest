@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.pcomp.example.spring.boot.rest.model.User;
-import com.pcomp.example.spring.boot.rest.repositpry.UserRepository;
+import com.pcomp.example.spring.boot.rest.repository.UserRepository;
 import com.pcomp.example.spring.boot.rest.service.UserService;
 
 @Service

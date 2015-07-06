@@ -10,7 +10,7 @@ import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
 
 import com.pcomp.example.spring.boot.rest.model.User;
-import com.pcomp.example.spring.boot.rest.repositpry.UserRepository;
+import com.pcomp.example.spring.boot.rest.repository.UserRepository;
 import com.pcomp.example.spring.boot.rest.service.UserService;
 
 @RunWith(MockitoJUnitRunner.class)
